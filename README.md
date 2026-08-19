@@ -39,7 +39,3 @@ cmake .. && make
 - C++17 compiler
 
 ---
-
-
-## License / Лицензия
-MIT — do whatever you want. / Делайте что хотите.

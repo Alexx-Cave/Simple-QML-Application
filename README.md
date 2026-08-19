@@ -1,4 +1,4 @@
-# QML Window Factory / QML Генератор Окон
+# QML Window Factory
 
 [![Qt](https://img.shields.io/badge/Qt-6.0+-brightgreen)](https://www.qt.io)
 [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org)
